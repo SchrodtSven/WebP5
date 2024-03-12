@@ -1,0 +1,21 @@
+# Local DEV & testing stuff
+.phpunit.result.cache
+archive
+cache
+dump
+phpunit
+foo.php
+foo.html
+foo.js
+foo.css
+foo.sh
+*.ttf
+test.php
+
+# Darwin stuff
+.DS_Store
+
+
+# Deployment stuff
+README_RAW.md
+public/bootstrap.php 
